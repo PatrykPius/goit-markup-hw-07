@@ -1,0 +1,44 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #212121;
+    background-color: white;
+    font-size: 14px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    vertical-align: middle;
+}
+/* LUB 
+img {
+  display: block;
+ } */
+
+ .container {
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 0 15px;
+}
+
+ a {
+    color: inherit;
+    cursor: pointer;
+}
+
+button {
+    cursor: pointer;
+    color: inherit;
+}
+
+.no-dots {
+    list-style: none;
+}
+
+.section {
+    padding-top: 94px;
+    padding-bottom: 94px;
+}

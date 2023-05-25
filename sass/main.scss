@@ -1,1 +1,5 @@
-@import './components/navigation';
+@import './utils/vars';
+@import './utils/globals';
+@import './components/nav';
+@import './components/header';
+@import './components/logo';
