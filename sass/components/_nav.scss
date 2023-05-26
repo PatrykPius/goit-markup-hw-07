@@ -8,7 +8,7 @@
             &::after {
                 content: '';
                 position: absolute;
-                background-color: var(--active-color);
+                background-color: $active-color;
                 width: 100%;
                 height: 4px;
                 border-radius: 2px;
